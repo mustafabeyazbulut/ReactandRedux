@@ -1,0 +1,5 @@
+VS Code indir ve eklenti olarak ES7 react/redux kur
+nodejs kur
+
+
+npm init ile proje dosyası oluşturulur package.json

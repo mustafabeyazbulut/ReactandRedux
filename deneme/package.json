@@ -1,0 +1,17 @@
+{
+  "name": "learning-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "Mustafa beyazbulut <mustafa.beyazbulut@gmail.com>",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "node-fetch": "^3.1.0",
+    "slugify": "^1.6.4"
+  }
+}
